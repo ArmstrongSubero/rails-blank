@@ -7,6 +7,6 @@
 - Real time chat engine for comments
 - Blog
 - Portfolio
-- Drag and drop interfect
+- Drag and drop interface
 
 
